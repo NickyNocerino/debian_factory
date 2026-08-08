@@ -1,0 +1,12 @@
+live-build
+debootstrap
+xorriso
+squashfs-tools
+isolinux
+syslinux-common
+grub-efi-amd64-bin
+grub-pc-bin
+grub-common
+mtools
+dosfstools
+git
